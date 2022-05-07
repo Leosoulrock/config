@@ -12,7 +12,7 @@
       "Porta": "7300"
     }
   ],
-  "Servers": [
+  "Servers": 
     {
       "Name": "Servidor BR SV",
       "TYPE": "premium",
