@@ -1,7 +1,7 @@
 {
- "Version": "1.0.3",
+ "Version": "1.0.4",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://github.com/Leosoulrock/config/edit/main/config.json",
+  "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
   "Sms": "",
   "EmailFeedback": "testenetssh@gmail.com",
   "UrlContato": "https://wa.me/5521965555448",
@@ -12,7 +12,7 @@
       "Porta": "7300"
     }
   ],
-  "Servers": 
+  "Servers": [
     {
       "Name": "Servidor BR SV",
       "TYPE": "premium",
