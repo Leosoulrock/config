@@ -71,8 +71,8 @@
       "Name": "VIVO 3",
       "FLAG": "vivo",
       "Payload": "GET ws://vivo.apolo.tk / HTTP/1.1[crlf]Host:[app_host][crlf]Upgrade: websocket[crlf][crlf] ",
-      "SNI": "vivo.apolo.tk  ",
-      "TlsIP": "vivo.apolo.tk  ",
+      "SNI": "vivo.apolo.tk",
+      "TlsIP": "vivo.apolo.tk",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
