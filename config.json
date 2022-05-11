@@ -87,6 +87,16 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
+    {
+      "Name": "Claro 2",
+      "FLAG": "claro",
+      "Payload": "GET ws://content.akross.com.br HTTP/1.1\nHost:[app_host]\nUpgrade: ws\n\n",
+      "SNI": "content.akross.com.br",
+      "TlsIP": "content.akross.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
      {
       "Name": "OI",
       "FLAG": "oi",
