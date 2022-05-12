@@ -1,5 +1,5 @@
 {
- "Version": "1.1.1",
+ "Version": "1.1.2",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
   "Sms": "",
@@ -78,10 +78,20 @@
       "Info": "Tlsws"
     },
     {
+      "Name": "Tim 2",
+      "FLAG": "tim",
+      "Payload": "GET ws://consultatim.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
+      "SNI": "consultatim.com.br",
+      "TlsIP": "consultatim.com.br",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
       "Name": "Claro",
       "FLAG": "claro",
-      "Payload": "GET ws://no.descomplica.com.br HTTP/1.1\nHost:[app_host]\nUpgrade: ws\n\n",
-      "SNI": "no.descomplica.com.br",
+      "Payload": "GET ws://atendimento.descomplica.com.br HTTP/1.1\nHost:[app_host]\nUpgrade: ws\n\n",
+      "SNI": "atendimento.descomplica.com.br",
       "TlsIP": "no.descomplica.com.br",
       "ProxyIP": "",
       "ProxyPort": "",
