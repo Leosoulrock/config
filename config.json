@@ -1,5 +1,5 @@
 {
- "Version": "1.1.4",
+ "Version": "1.1.5",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
   "Sms": "",
@@ -34,7 +34,18 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    }    
+    },
+     {
+      "Name": "Servidor BR LS 2",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "sshls4g.tk",
+      "CheckUser": "http://sshls4g.tk:8181/checkUser",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
   ],
   "Networks": [
     {
