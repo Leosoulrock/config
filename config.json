@@ -1,12 +1,12 @@
 {
- "Version": "1.1.5",
+ "Version": "1.1.6",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
   "Sms": "",
   "EmailFeedback": "testenetssh@gmail.com",
   "UrlContato": "https://wa.me/5521965555448",
   "UrlTermos": "http://paste.anasor.com/paste.php?raw&id=9466",
-  "CheckUser": "false",
+  "CheckUser": "true",
   "Udp": [
     {
       "Porta": "7300"
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sv-br.ssh4g.xyz",
-      "CheckUser": "http://sshls.tk:8181/checkUser",
+      "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -29,7 +29,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sshls.tk",
-      "CheckUser": "http://sshls.tk:8181/checkUser",
+      "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
