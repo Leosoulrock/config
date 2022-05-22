@@ -13,7 +13,7 @@
     }
   ],
   "Servers": [
-    
+      {
       "Name": "Servidor BR DMi",
       "TYPE": "premium",
       "FLAG": "br.png",
@@ -35,7 +35,7 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
-    ,
+      },
     {
       "Name": "VIVO",
       "FLAG": "vivo",
