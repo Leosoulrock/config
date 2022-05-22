@@ -1,5 +1,5 @@
 {
- "Version": "1.1.7",
+ "Version": "1.1.8",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
   "Sms": "",
@@ -17,7 +17,7 @@
       "Name": "Servidor BR DM",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "sv-br.ssh4g.xyz",
+      "ServerIP": "web9.netsshbrasil.xyz",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
