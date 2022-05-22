@@ -1,5 +1,5 @@
 {
- "Version": "1.0.6",
+ "Version": "1.0.7",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/diegoconfig",
   "Sms": "",
@@ -14,7 +14,7 @@
   ],
   "Servers": [
       {
-      "Name": "Servidor BR DMi",
+      "Name": "Servidor BR DM",
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "web9.netsshbrasil.xyz",
