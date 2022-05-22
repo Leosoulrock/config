@@ -9,7 +9,7 @@
   "CheckUser": "false",
   "Udp": [
     {
-      "Porta": "7300"
+      "Porta": "7299"
     }
   ],
   "Servers": [
@@ -19,8 +19,8 @@
       "FLAG": "br.png",
       "ServerIP": "web9.netsshbrasil.xyz",
       "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
+      "ServerPort": "21",
+      "SSLPort": "442",
       "USER": "",
       "PASS": ""
     }
