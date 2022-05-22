@@ -1,11 +1,11 @@
 {
  "Version": "1.1.7",
   "ReleaseNotes": "Nova Atualização Disponível",
-  "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
+  "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/ticoconfig",
   "Sms": "",
   "EmailFeedback": "testenetssh@gmail.com",
-  "UrlContato": "https://wa.me/5521965555448",
-  "UrlTermos": "http://paste.anasor.com/paste.php?raw&id=9466",
+  "UrlContato": "https://wa.me/556799449695",
+  "UrlTermos": "https://paste.anasor.com/paste.php?raw&id=10968",
   "CheckUser": "false",
   "Udp": [
     {
