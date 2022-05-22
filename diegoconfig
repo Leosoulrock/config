@@ -1,5 +1,5 @@
 {
- "Version": "1.0.1",
+ "Version": "1.0.2",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/diegoconfig",
   "Sms": "",
@@ -13,7 +13,7 @@
     }
   ],
   "Servers": [
-    {
+    
       "Name": "Servidor BR DM",
       "TYPE": "premium",
       "FLAG": "br.png",
@@ -35,7 +35,7 @@
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
-    },
+    ,
     {
       "Name": "VIVO",
       "FLAG": "vivo",
