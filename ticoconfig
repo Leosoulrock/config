@@ -1,5 +1,5 @@
 {
- "Version": "1.1.7",
+ "Version": "1.1.8",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/ticoconfig",
   "Sms": "",
@@ -14,17 +14,6 @@
   ],
   "Servers": [
     {
-      "Name": "Servidor BR SV",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "sv-br.ssh4g.xyz",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
-    },
-    {
       "Name": "Servidor BR LS",
       "TYPE": "premium",
       "FLAG": "br.png",
@@ -37,16 +26,6 @@
     }
   ],
   "Networks": [
-    {
-      "Name": "Todas as Operadoras",
-      "FLAG": "vivo",
-      "Payload": "GET ws://mobilidade.cloud.caixa.gov.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "104.16.56.6",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
     {
       "Name": "VIVO",
       "FLAG": "vivo",
