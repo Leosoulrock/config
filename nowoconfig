@@ -23,17 +23,6 @@
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
-    },
-    {
-      "Name": "Servidor BR SV",
-      "TYPE": "premium",
-      "FLAG": "br.png",
-      "ServerIP": "sv-br.ssh4g.xyz",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "",
-      "PASS": ""
     }
   ],
   "Networks": [
