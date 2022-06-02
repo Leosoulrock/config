@@ -1,5 +1,5 @@
 {
- "Version": "1.2.3",
+ "Version": "1.2.4",
   "ReleaseNotes": "Nova Atualização Disponível",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
   "Sms": "",
@@ -98,11 +98,11 @@
       "Info": "Tlsws"
     },
     {
-      "Name": "Claro NOVA [SSL FAST]",
+      "Name": "Claro Turbo",
       "FLAG": "claro",
-      "Payload": "GET ws://boom4u.com.br HTTP/1.1\nHost:[app_host]\nUpgrade: ws\n\n",
-      "SNI": "boom4u.com.br",
-      "TlsIP": "boom4u.com.br",
+      "Payload": "GET ws://atendimento.descomplica.com.br HTTP/1.1\nHost:[app_host]\nUpgrade: ws\n\n",
+      "SNI": "atendimento.descomplica.com.br",
+      "TlsIP": "199.60.103.228",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
