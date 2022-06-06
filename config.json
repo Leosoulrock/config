@@ -1,6 +1,6 @@
 {
- "Version": "1.3.2",
-  "ReleaseNotes": "Nova Atualização Disponível - TIM SSL FAST e Vivo SSL 3 adicionada",
+ "Version": "1.3.3",
+  "ReleaseNotes": "Nova Atualização Disponível - TIM SSL 3-> TIM SSL, métodos antigos removidos!",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
   "Sms": "",
   "EmailFeedback": "testenetssh@gmail.com",
