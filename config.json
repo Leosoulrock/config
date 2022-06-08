@@ -137,8 +137,6 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
-
-
     {
       "Name": "Claro SSL FAST",
       "FLAG": "claro",
