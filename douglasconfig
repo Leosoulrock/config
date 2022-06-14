@@ -1,12 +1,12 @@
 {
-  "Version": "1.0.0",
-  "ReleaseNotes": "Nova Atualização Disponível",
+  "Version": "1.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível - CheckUser Ativo",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/douglasconfig",
   "Sms": "",
   "EmailFeedback": "bruno2amorim@gmail.com",
   "UrlContato": "https://wa.me/5521972180949",
   "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
-  "CheckUser": "false",
+  "CheckUser": "true",
   "Udp": [
     {
       "Porta": "7300"
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "ibcell.tk",
-      "CheckUser": "",
+      "CheckUser": "http://45.140.192.234:5000/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
