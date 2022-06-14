@@ -1,6 +1,6 @@
 {
- "Version": "1.3.9",
-  "ReleaseNotes": "Nova Atualização Disponível - Estabilidade de Conexão Atualizada em todos os Métodos!",
+ "Version": "1.4.0",
+  "ReleaseNotes": "Nova Atualização Disponível - Claro Fast Atualizada!",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
   "Sms": "",
   "EmailFeedback": "testenetssh@gmail.com",
@@ -140,9 +140,9 @@
     {
       "Name": "Claro SSL FAST",
       "FLAG": "claro",
-      "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "api.new.livestream.com",
-      "TlsIP": "api.new.livestream.com",
+      "Payload": "GET wss://1969481.mediaspace.kaltura.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "1969481.mediaspace.kaltura.com",
+      "TlsIP": "1969481.mediaspace.kaltura.com",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Tlsws"
