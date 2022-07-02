@@ -1,5 +1,5 @@
 {
- "Version": "1.5.0",
+ "Version": "1.5.1",
   "ReleaseNotes": "Nova Atualização Disponível - Vivo Atualizada!",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
   "Sms": "",
@@ -52,7 +52,7 @@
       "FLAG": "vivo",
       "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host:sshls.tk[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
       "SNI": "vivo360.vivo.com.br",
-      "TlsIP": "443",
+      "TlsIP": "104.18.6.80",
       "ProxyIP": "",
       "ProxyPort": "",
       "Info": "Proxy"
