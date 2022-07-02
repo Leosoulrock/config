@@ -1,5 +1,5 @@
 {
- "Version": "1.5.2",
+ "Version": "1.5.3",
   "ReleaseNotes": "Nova Atualização Disponível - Vivo Atualizada!",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/config.json",
   "Sms": "",
@@ -55,7 +55,7 @@
       "TlsIP": "104.18.6.80",
       "ProxyIP": "",
       "ProxyPort": "",
-      "Info": "Proxy"
+      "Info": "Tlsws"
     },
     {
       "Name": "Tim SSL",
