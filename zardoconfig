@@ -1,6 +1,6 @@
 
 {
- "Version": "1.4.9",
+ "Version": "1.5.0",
   "ReleaseNotes": "Nova Atualização Disponível - Vivo Atualizada!",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/zardoconfig",
   "Sms": "",
@@ -39,84 +39,94 @@
   ],
   "Networks": [
      {
-      "Name": "VIVO DIRECT 1",
+      "Name": "VIVO DIRECT 1 (Todos os DDDs)",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf] Connection: Keep-Alive[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host:dqzl68vzt9awx.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "104.24.10.16",
+      "ProxyIP": "planosvivointernet.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO DIRECT 2",
+      "Name": "VIVO SSL (Alguns DDDs) ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf] Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.24.11.16",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivo360.vivo.com.br",
+      "TlsIP": "104.18.6.80",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
-      "Name": "VIVO DIRECT 3",
+      "Name": "VIVO SSL 2 (Alguns DDDs) ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf] Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.24.24.34",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://vivo360.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "vivo360.vivo.com.br",
+      "TlsIP": "104.18.7.80",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
-      "Name": "VIVO DIRECT 4",
+      "Name": "VIVO SSL 3 (DDD 21) ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf] Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.24.25.34",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://equipamentos01.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "equipamentos01.vivo.com.br",
+      "TlsIP": "104.16.56.6",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
-      "Name": "VIVO DIRECT 5",
+      "Name": "VIVO SSL 4 (DDD 21) ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf] Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "172.64.130.2",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://equipamentos01.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "equipamentos01.vivo.com.br",
+      "TlsIP": "104.16.57.6",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
-      "Name": "VIVO DIRECT 6",
+      "Name": "VIVO SSL 5 (DDD 21) ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf] Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "172.64.131.2",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://equipamentos01.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "equipamentos01.vivo.com.br",
+      "TlsIP": "104.16.122.175",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
-      "Name": "VIVO DIRECT 7",
+      "Name": "VIVO SSL 6 (DDD 21) ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf] Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "172.64.194.2",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://equipamentos01.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "equipamentos01.vivo.com.br",
+      "TlsIP": "104.16.123.175",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
-      "Name": "VIVO DIRECT 8",
+      "Name": "VIVO SSL 7 (DDD 21) ",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf] Connection: Keep-Alive[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "172.64.195.2",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "GET wss://equipamentos01.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "equipamentos01.vivo.com.br",
+      "TlsIP": "104.16.124.175",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO SSL 8 (DDD 21) ",
+      "FLAG": "vivo",
+      "Payload": "GET wss://equipamentos01.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf][crlf]",
+      "SNI": "equipamentos01.vivo.com.br",
+      "TlsIP": "104.16.126.175",
+      "ProxyIP": "",
+      "ProxyPort": "",
+      "Info": "Tlsws"
     },
     {
       "Name": "Tim SSL",
