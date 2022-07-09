@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "ReleaseNotes": "Nova Atualização Disponível - Vivo Atualizada - Modo Avião*",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/douglasconfig",
   "Sms": "",
@@ -13,7 +13,31 @@
     }
   ],
   "Servers": [
-     {
+   {
+      "Name": "Servidor BR LS",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "sshls.tk",
+      "CheckUser": "",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    },
+    {
+      "Name": "Servidor BR SV",
+      "TYPE": "premium",
+      "FLAG": "br.png",
+      "ServerIP": "sv-br.ssh4g.xyz",
+      "CheckUser": "",
+      "ServerPort": "80",
+      "SSLPort": "443",
+      "USER": "",
+      "PASS": ""
+    }
+  ],
+  "Networks": [
+    {
       "Name": "VIVO DIRECT 1 (Todos os DDDs)",
       "FLAG": "vivo",
       "Payload": "GET / HTTP/1.1[crlf]Host:dqzl68vzt9awx.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
