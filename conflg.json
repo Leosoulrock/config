@@ -1,12 +1,12 @@
 {
- "Version": "1.5.9",
-  "ReleaseNotes": "Nova Atualização Disponível - Termos Atualizados!",
+ "Version": "1.6.0",
+  "ReleaseNotes": "Nova Atualização Disponível - CheckUser adicionado!",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/conflg.json",
   "Sms": "",
   "EmailFeedback": "testenetssh@gmail.com",
   "UrlContato": "https://wa.me/5521965555448",
   "UrlTermos": "https://raw.githubusercontent.com/Leosoulrock/config/main/termos",
-  "CheckUser": "false",
+  "CheckUser": "true",
   "Udp": [
     {
       "Porta": "7300"
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sshls.tk",
-      "CheckUser": "",
+      "CheckUser": "https://sshls.tk:5000/checkUser",
       "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
