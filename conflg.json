@@ -1,12 +1,12 @@
 {
- "Version": "1.5.7",
-  "ReleaseNotes": "Nova Atualização Disponível - Metodos VIVO Otimizados e Claro FAST 3 Adicionada!",
+ "Version": "1.5.8",
+  "ReleaseNotes": "Nova Atualização Disponível - CheckUser adicionado!",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/conflg.json",
   "Sms": "",
   "EmailFeedback": "testenetssh@gmail.com",
   "UrlContato": "https://wa.me/5521965555448",
   "UrlTermos": "http://paste.anasor.com/paste.php?raw&id=9466",
-  "CheckUser": "false",
+  "CheckUser": "true",
   "Udp": [
     {
       "Porta": "7300"
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sshls.tk",
-      "CheckUser": "",
+      "CheckUser": "https://209.14.3.60:5000/checkUser",
       "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
