@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sshls.tk",
-      "CheckUser": "http://209.14.3.60:5000/checkUser",
+      "CheckUser": "http://209.14.3.60:5000",
       "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
