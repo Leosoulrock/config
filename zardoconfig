@@ -1,13 +1,13 @@
 
 {
- "Version": "1.5.0",
-  "ReleaseNotes": "Nova Atualização Disponível - Vivo Atualizada!",
+ "Version": "1.5.1",
+  "ReleaseNotes": "Nova Atualização Disponível - CheckUser Adicionado!",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/zardoconfig",
   "Sms": "",
   "EmailFeedback": "znet.vpn@gmail.com",
   "UrlContato": "https://wa.me/554491840152",
-  "UrlTermos": "https://paste.anasor.com/paste.php?raw&id=14680  ",
-  "CheckUser": "false",
+  "UrlTermos": "https://paste.anasor.com/paste.php?raw&id=14680",
+  "CheckUser": "true",
   "Udp": [
     {
       "Porta": "7300"
@@ -19,8 +19,8 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sshls.tk",
-      "CheckUser": "",
-      "ServerPort": "22",
+      "CheckUser": "http://check.sshls.tk:5000/checkUser",
+      "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
@@ -31,7 +31,7 @@
       "FLAG": "br.png",
       "ServerIP": "sv-br.ssh4g.xyz",
       "CheckUser": "",
-      "ServerPort": "22",
+      "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
       "PASS": ""
