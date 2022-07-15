@@ -1,5 +1,5 @@
 {
- "Version": "1.6.3",
+ "Version": "1.6.4",
   "ReleaseNotes": "Nova Atualização Disponível - CheckUser adicionado!",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/conflg.json",
   "Sms": "",
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sshls.tk",
-      "CheckUser": "http://sshls.tk:5000",
+      "CheckUser": "http://check.sshls.tk:5000/checkUser",
       "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
