@@ -1,5 +1,5 @@
 {
- "Version": "1.7.4",
+ "Version": "1.7.5",
   "ReleaseNotes": "Nova Atualização Disponível - Vivo DIRECT 4 5, Vivo TLS 1 2 e Claro Fast 3 adicionadas",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/conflg.json",
   "Sms": "",
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "sshls.tk",
-      "CheckUser": "bolo.sshlsvpn.tk:5000/checkUser",
+      "CheckUser": "http://bolo.sshlsvpn.tk:5000/checkUser",
       "ServerPort": "80",
       "SSLPort": "443",
       "USER": "",
