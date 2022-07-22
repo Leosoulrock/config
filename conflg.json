@@ -1,5 +1,5 @@
 {
- "Version": "1.6.9",
+ "Version": "1.7.0",
   "ReleaseNotes": "Nova Atualização Disponível - Vivo DIRECT 4, Vivo TLS E Claro Fast 3 adicionadas",
   "UrlUpdate": "https://raw.githubusercontent.com/Leosoulrock/config/main/conflg.json",
   "Sms": "https://raw.githubusercontent.com/Leosoulrock/config/main/sms",
@@ -142,8 +142,8 @@
       "FLAG": "vivo",
       "Payload": "GET wss://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade:ws[crlf]Connection:Keep-Alive[crlf][crlf]",
       "SNI": "mobilidade.cloud.caixa.gov.br",
-      "TlsIP": "mobilidade.cloud.caixa.gov.br",
-      "ProxyIP": "104.16.126.175",
+      "TlsIP": "172.67.165.43",
+      "ProxyIP": "172.67.165.43",
       "ProxyPort": "443",
       "Info": "Tlsws"
     },
